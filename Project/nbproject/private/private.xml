@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/servlets/NewHibernateUtil.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/servlets/Table.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/hibernate.reveng.xml</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/Service/GroupInterface.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/entity/Gruppyi.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/servlets/Update.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/web/WEB-INF/updateStud.jsp</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/entity/Studentyi.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/Service/GroupService.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/servlets/Create.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/web/WEB-INF/studentsTable.jsp</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/web/index.html</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/web/WEB-INF/studCreate.jsp</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/Service/StudentyiService.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/Service/StudentyiServiceImpl.java</file>
+            <file>file:/E:/Учёба/TP-3SEM/UQ/Project/Project/src/java/servlets/Delete.java</file>
+        </group>
+    </open-files>
+</project-private>
